@@ -13,10 +13,6 @@
     <style>
       body{
         font-family: "Gill Sans", sans-serif;
-        text-decoration: none;
-      }
-      body a{
-        text-decoration: none;
       }
         .body{
             position: relative;
